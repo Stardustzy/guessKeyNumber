@@ -27,13 +27,7 @@ Made with **HTML**, **CSS**, and **JavaScript** — just for fun and logic pract
 
 ---
 
-## 📂 Project Structure
-guess-numberkey/
-│
-├── index.html # main game page
-├── style.css # styling file
-└── numberKey.js # game logic script
-
+## 📁 Project Structure
 
 ---
 
