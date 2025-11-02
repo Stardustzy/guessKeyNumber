@@ -13,6 +13,11 @@ Made with **HTML**, **CSS**, and **JavaScript** — just for fun and logic pract
 
 ---
 
+## 🎮 Play Here  
+👉 [guess-key-number.vercel.app](https://guess-key-number.vercel.app/)
+
+---
+
 ## 💡 Features
 - Dynamic background color that changes depending on your guess.
 - Validation for invalid input (not a number or out of range).
@@ -28,14 +33,16 @@ Made with **HTML**, **CSS**, and **JavaScript** — just for fun and logic pract
 ---
 
 ## 📁 Project Structure
+```
+guessKeyNumber/
+├── index.html # main game page
+├── style.css # styling file
+└── numberKey.js # game logic script
+```
 
 ---
 
 ## 🧑‍💻 Author
 Made with ❤️ by **codemiffy**
 
----
 
-## 🌐 Preview
-You can play it locally by opening `index.html` in your browser.  
-(If you want, you can deploy it on GitHub Pages later!)
